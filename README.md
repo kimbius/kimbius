@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kimbius</h1>
 <h3 align="center">A backend developer.</h3>
-
-<center>
+<div style="text-align:center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkavixinthehouse" />
-</center>
+</div>
