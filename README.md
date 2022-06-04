@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kimbius</h1>
-<h3 align="center">A fullstack developer.</h3>
+<h3 align="center">A junior developer.</h3>
 <br>
 <br>
 <p align="center">
