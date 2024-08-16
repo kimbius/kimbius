@@ -6,4 +6,4 @@
 [![CTF-Time](https://img.shields.io/badge/Immature%20Monster-%23C71610.svg)](https://lfm.immature.monster/)
 ![Profile Views](https://komarev.com/ghpvc/?username=kimbius&color=green)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3pxv4i23jaqynrgp4mi8dqu01&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3pxv4i23jaqynrgp4mi8dqu01&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
