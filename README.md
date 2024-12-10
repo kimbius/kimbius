@@ -1,4 +1,4 @@
-Hello, My name is Peerawit Piwsawang. The topic of web exploitation interests me. "No theory, just practice" is my credo, which implies that while theory and practice are both significant, practice is paramount.
+Hi, I am Peerawit Piwsawang. I like web hacking. I learn best by doing. Practice is more important to me than theory.
 
 ![Discord](https://img.shields.io/badge/p33raw1t-%237289DA.svg?logo=discord&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=kimbius&color=green)
